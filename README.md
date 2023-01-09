@@ -7,3 +7,5 @@
 - 배치 파일 생성 시, ``` protoc --cpp_out=./ proto파일명.proto ```
 - [참고 자료1](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=skywood1&logNo=100148735846)
 - [참고 자료2](http://javawork.egloos.com/2726467)
+
+# C++ & C# 사이에서 gRPC 작업중 
